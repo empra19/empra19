@@ -23,7 +23,7 @@ Hi👋, I am Yasith - a data scientist from London with a passion for using mach
 - **Languages:** Python, SQL, MATLAB
 - **Frameworks & Libraries:** pandas, tensorflow, pytorch, scikit-learn, mySQL, postgreSQL
 - **Software:** Tableau, Excel
-- **Tools:** Git
+- **Tools:** Jupyter Notebook, Conda, Git
 
 <h3 align="left">Projects 📂</h3>
 
