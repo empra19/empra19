@@ -21,9 +21,9 @@ Hi👋, I am Yasith - a data scientist from London with a passion for using mach
 <h3 align="left">Tech Toolbox 🛠️</h3>
 
 - **Languages:** Python, SQL, MATLAB
-- **Frameworks & Libraries:** pandas, tensorflow, pytorch, scikit-learn, mySQL, postgreSQL
+- **Frameworks & Libraries:** pandas, tensorflow, pytorch, scikit-learn
 - **Software:** Tableau, Excel
-- **Tools:** Jupyter Notebook, Conda, Git
+- **Tools:** Jupyter Notebook, Git,  mySQL, postgreSQL
 
 <h3 align="left">Projects 📂</h3>
 
