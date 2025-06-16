@@ -27,7 +27,7 @@ Hi👋, I am Yasith - a data scientist from London with a passion for using mach
 
 <h3 align="left">Projects 📂</h3>
 
-- [Cluster Analysis on PC Video Game Market Data 🎮](https://github.com/empra19/pc-video-market-project)
+- [Cluster Analysis on PC Video Game Market Data 🎮](https://github.com/empra19/pc-video-game-market-project)
 
 
 
