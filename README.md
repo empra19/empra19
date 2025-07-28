@@ -28,7 +28,7 @@ Hi👋, I am Yasith - a data scientist from London with a passion for using mach
 <h3 align="left">Projects 📂</h3>
 
 - [Cluster Analysis on PC Video Game Market Data 🎮](https://github.com/empra19/pc-video-game-market-project)
-- [Census 2021 Data Analysis](https://www.linkedin.com/posts/yasith-senanayake-396356217_ever-seen-a-statistic-that-made-you-stop-activity-7353419311262171138-c0Fb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADaw06IBUQB7v_FufBC7RGmVVAySpFr29do)
+- [Census 2021 Data Analysis](https://www.point-sigma.com/blog/what-to-do-when-a-graph-surprises-you)
 
 
 <h3 align="left">Connect with me 🌐</h3>
