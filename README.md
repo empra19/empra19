@@ -34,6 +34,7 @@ I'm Yasith - a Data Analyst based in London with a background in mathematics and
 | Project | Description | Tools |
 |---|---|---|
 | [US Consumer Spending Analysis](https://github.com/empra19/us-consumer-spending-analysis) | Financial dashboard with SARIMA forecasting across 13M transactions | Python, SQL, Streamlit, SQLite |
+| [Fast Food Marketing Campaign: A/B/C Test Analysis](https://github.com/empra19/us-consumer-spending-analysis) | Stakeholder dashboard identifying which promotional campaign to deploy | PowerBI |
 | [Vertigo Project](https://github.com/empra19/Vertigo-Project) | Inertial data logger analysis | MATLAB |
 | Census 2021 Analysis | Article series translating census data for public audiences [[1]](https://www.point-sigma.com/blog/what-to-do-when-a-graph-surprises-you) [[2]](https://www.linkedin.com/posts/point-sigma_marriage-rates-among-young-adults-in-the-activity-7355557683308941313--c5S?) [[3]](https://www.linkedin.com/posts/point-sigma_is-it-harder-for-ethnic-minorities-to-get-activity-7357044473916235777-UiuE?) | Point-Sigma |
 
